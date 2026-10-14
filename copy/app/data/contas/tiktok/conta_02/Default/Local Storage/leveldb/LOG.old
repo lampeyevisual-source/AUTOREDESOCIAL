@@ -1,0 +1,20 @@
+2026/10/12-12:27:30.299 fa8 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\app\data\contas\tiktok\conta_02\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/12-12:27:30.304 fa8 Recovering log #21
+2026/10/12-12:27:30.377 fa8 Reusing old log C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\app\data\contas\tiktok\conta_02\Default\Local Storage\leveldb/000021.log 
+2026/10/12-12:57:32.145 1988 Level-0 table #25: started
+2026/10/12-12:57:32.157 1988 Level-0 table #25: 21486 bytes OK
+2026/10/12-12:57:32.164 1988 Delete type=0 #21
+2026/10/12-13:08:32.146 1988 Level-0 table #27: started
+2026/10/12-13:08:32.165 1988 Level-0 table #27: 1594984 bytes OK
+2026/10/12-13:08:32.167 1988 Delete type=0 #24
+2026/10/12-13:08:32.169 1988 Compacting 4@0 + 1@1 files
+2026/10/12-13:08:32.194 1988 Generated table #28@0: 98 keys, 1752239 bytes
+2026/10/12-13:08:32.194 1988 Compacted 4@0 + 1@1 files => 1752239 bytes
+2026/10/12-13:08:32.195 1988 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/12-13:08:32.196 1988 Delete type=2 #17
+2026/10/12-13:08:32.196 1988 Delete type=2 #19
+2026/10/12-13:08:32.196 1988 Delete type=2 #22
+2026/10/12-13:08:32.196 1988 Delete type=2 #25
+2026/10/12-13:08:32.196 1988 Delete type=2 #27
+2026/10/12-13:10:23.118 1988 Level-0 table #30: started
+2026/10/12-13:10:23.134 1988 Level-0 table #30: 93659 bytes OK

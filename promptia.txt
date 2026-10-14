@@ -1,0 +1,442 @@
+OBJETIVO: REALIZAR UMA ANÁLISE AUDIOVISUAL EXTREMAMENTE
+DETALHADA DO VÍDEO ENVIADO, CENA POR CENA.
+
+Quero que você atue como um especialista em análise de vídeo,
+direção cinematográfica, continuidade visual, movimentos corporais,
+interpretação de diálogos e engenharia reversa de cenas.
+
+Sua tarefa NÃO é resumir o vídeo.
+
+Sua tarefa é observar o vídeo inteiro e documentar, com o máximo
+de precisão possível, tudo o que acontece visualmente e sonoramente,
+para que outra equipe ou uma inteligência artificial consiga usar
+essa descrição como referência para criar uma produção nova.
+
+REGRAS OBRIGATÓRIAS:
+
+1. Analise o vídeo inteiro, do primeiro ao último segundo.
+2. Não pule cenas curtas, cortes rápidos ou movimentos pequenos.
+3. Divida o vídeo em cenas e subdivida as cenas quando houver
+   mudanças importantes de ação, enquadramento ou diálogo.
+4. Registre os tempos exatos de início e fim de cada acontecimento,
+   usando o formato HH:MM:SS.mmm quando a precisão permitir.
+5. Não invente detalhes que não sejam visíveis ou audíveis.
+6. Se um detalhe estiver escondido, fora do enquadramento ou
+   impossível de confirmar, escreva "não visível" ou "incerto".
+7. Diferencie claramente o que foi observado daquilo que é apenas
+   uma interpretação provável.
+8. Mantenha a identidade de cada personagem consistente em todas
+   as cenas, identificando-os como PERSONAGEM A, PERSONAGEM B,
+   PERSONAGEM C etc.
+9. Considere a orientação da tela do ponto de vista do espectador.
+   Diferencie esquerda da tela, direita da tela, primeiro plano,
+   fundo, entrada e saída do enquadramento.
+10. Não comece a criar um novo vídeo. Primeiro entregue a análise
+    completa solicitada.
+
+PARTE 1 — INFORMAÇÕES GERAIS DO VÍDEO
+
+Informe:
+
+- Duração total.
+- Resolução e proporção da imagem, se disponíveis.
+- Estilo visual: filmagem real, animação 2D, animação 3D,
+  desenho, anime ou outro.
+- Estilo narrativo e ritmo de edição.
+- Número aproximado de cenas e personagens.
+- Localizações e ambientes que aparecem.
+- Idioma das falas.
+- Existência de narração, legendas, música e efeitos sonoros.
+- Aparência geral da imagem, paleta de cores e iluminação.
+
+PARTE 2 — FICHA COMPLETA DE CADA PERSONAGEM
+
+Antes de descrever as cenas, crie uma ficha para cada personagem
+identificável.
+
+Descreva separadamente:
+
+A. Aparência física:
+- Faixa etária aparente, sem afirmar idade exata quando não for possível.
+- Aparência geral do rosto.
+- Formato do rosto, sobrancelhas e olhos.
+- Cor dos olhos, somente se for possível observar.
+- Cabelo: cor, comprimento, textura, corte e penteado.
+- Tom de pele, conforme visível.
+- Altura relativa aos outros personagens.
+- Constituição física e postura.
+- Marcas, acessórios ou características visuais distintivas.
+
+B. Roupas, da cabeça aos pés:
+- Chapéu, boné ou outros acessórios na cabeça.
+- Camisa, camiseta, blusa, casaco ou uniforme.
+- Cor exata ou aproximada de cada peça.
+- Estampa, desenho, logotipo e textura visível.
+- Tipo de gola, mangas, botões, bolsos e fechamento.
+- Calça, saia, vestido ou outra peça inferior.
+- Cinto, relógio, pulseiras, colares e brincos.
+- Meias, se estiverem visíveis.
+- Sapatos, tênis, botas, sandálias ou chinelos.
+- Cor, formato, material aparente, cadarços, sola,
+  detalhes e condição do calçado, se visíveis.
+
+Não invente o modelo comercial de nenhuma roupa ou sapato.
+Descreva apenas os detalhes que a imagem sustenta.
+
+C. Voz e fala:
+- Características audíveis da voz.
+- Volume, ritmo, entonação e emoção.
+- Sotaque ou variedade linguística, somente quando identificável.
+- Maneira de falar, como sussurrar, gritar, rir ou hesitar.
+- Diferencie a voz real do personagem de uma narração externa.
+
+PARTE 3 — DESCRIÇÃO MINUCIOSA DE CADA CENA
+
+Crie uma seção independente para cada cena.
+
+Para cada uma, informe os itens a seguir:
+
+1. IDENTIFICAÇÃO E TEMPO
+
+- Número da cena.
+- Timecode inicial.
+- Timecode final.
+- Duração aproximada.
+- O que provoca a transição para a próxima cena.
+
+2. AMBIENTE
+
+- Local onde a cena acontece.
+- Ambiente interno ou externo.
+- Posição de paredes, portas, janelas, móveis e objetos.
+- Elementos do primeiro plano, plano intermediário e fundo.
+- Cores predominantes.
+- Texturas e materiais visíveis.
+- Objetos presentes e posição de cada um.
+- Elementos que mudam de lugar durante a cena.
+
+3. POSIÇÃO EXATA DOS PERSONAGENS NA TELA
+
+Para cada personagem, informe:
+
+- Posição horizontal: esquerda, centro ou direita.
+- Posição vertical: parte superior, central ou inferior.
+- Posição aproximada em porcentagem da largura e altura,
+  quando for possível estimar.
+- Distância aparente da câmera.
+- Se está no primeiro plano, plano intermediário ou fundo.
+- Orientação do corpo: de frente, de costas, perfil esquerdo,
+  perfil direito ou posição intermediária.
+- Direção do rosto.
+- Direção do olhar.
+- Para onde estão apontados os pés.
+- Se o personagem está parado, sentado, ajoelhado, deitado,
+  andando, correndo ou realizando outra ação.
+- Se aparece inteiro, da cintura para cima, em close ou parcialmente.
+- Quais partes do corpo estão visíveis ou escondidas.
+
+4. MOVIMENTOS E TRAJETÓRIAS
+
+Descreva os movimentos na ordem em que ocorrem.
+
+Não escreva somente "o personagem anda".
+
+Explique, quando observável:
+
+- Em que posição ele começa.
+- Para qual lado da tela se movimenta.
+- Se caminha da esquerda para a direita ou da direita para a esquerda.
+- Se avança em direção à câmera ou se afasta dela.
+- Se entra ou sai do enquadramento.
+- Se vira o corpo, a cabeça ou apenas os olhos.
+- Se desloca algum objeto.
+- Se para, muda de direção, tropeça, recua ou se aproxima.
+- Como termina o movimento e onde fica posicionado.
+
+Diferencie o movimento do personagem do movimento da câmera.
+Não confunda movimento para a direita da tela com movimento
+para a direita do próprio personagem.
+
+Se a trajetória não puder ser determinada com segurança, informe isso.
+
+5. MOVIMENTOS DO ROSTO, BRAÇOS, MÃOS E PERNAS
+
+Registre, quando visível:
+
+- Expressões faciais e suas mudanças.
+- Abertura da boca e sincronização aparente com a fala.
+- Movimento das sobrancelhas e direção do olhar.
+- Posição dos ombros e inclinação do tronco.
+- Braço que se movimenta, lado e direção.
+- Mãos abertas, fechadas, apontando, segurando ou tocando objetos.
+- Movimentos individuais relevantes dos dedos.
+- Posição dos cotovelos.
+- Movimento de quadril, joelhos, tornozelos e pés.
+- Mudanças de apoio corporal.
+- Gestos feitos durante cada fala.
+- Contato físico entre personagens.
+
+Descreva somente os movimentos que podem ser identificados.
+Não presuma movimentos que estejam encobertos.
+
+6. ROUPAS E OBJETOS DURANTE A AÇÃO
+
+Observe o comportamento das roupas e acessórios durante a cena:
+
+- Como a roupa se movimenta quando o personagem anda ou gira.
+- Dobras, oscilações, tecido que se levanta ou fica esticado.
+- Movimento dos cabelos.
+- Movimento de cordões, bolsas e acessórios.
+- Mudanças de posição ou orientação dos sapatos.
+- Objetos que o personagem pega, larga, empurra ou transporta.
+- Mão utilizada para cada ação, quando identificável.
+- Posição final dos objetos.
+
+Verifique se algum acessório aparece, desaparece ou muda de lado
+entre os cortes. Registre a mudança sem tentar corrigi-la.
+
+7. CÂMERA E ENQUADRAMENTO
+
+Descreva:
+
+- Plano geral, plano médio, close-up ou outro enquadramento.
+- Ângulo da câmera: frontal, lateral, superior, inferior ou oblíquo.
+- Altura aparente da câmera.
+- Inclinação e perspectiva.
+- Se a câmera está fixa, aproximando-se, afastando-se,
+  acompanhando o personagem, girando ou fazendo panorâmica.
+- Se a câmera se move para a esquerda, direita, cima ou baixo.
+- Mudanças de foco, se observáveis.
+- Profundidade de campo aparente.
+- Elementos que ficam fora de foco.
+- Cortes secos, transições, zooms e mudanças de enquadramento.
+- Se a mudança é causada pelo movimento da câmera ou por edição.
+
+Não afirme que houve movimento de câmera quando o efeito puder
+ser explicado apenas pelo deslocamento do personagem.
+
+8. DIÁLOGOS, NARRAÇÃO E ORIGEM DA FALA
+
+Esta parte é especialmente importante.
+
+Transcreva todas as falas audíveis, na ordem em que acontecem,
+mantendo as palavras originais e os timecodes aproximados.
+
+Para cada fala, informe:
+
+- Horário em que começa.
+- Horário em que termina.
+- Transcrição exata, quando inteligível.
+- Identificação do falante.
+- Se a pessoa que fala aparece na tela naquele momento.
+- Posição do falante na tela.
+- Se os movimentos da boca parecem coincidir com a fala.
+- Se o falante está olhando para outra pessoa ou para a câmera.
+- Se a voz vem de uma pessoa fora do enquadramento.
+- Se é uma narração em off, voz de fundo ou fala de personagem.
+- A quem a fala parece ser dirigida, quando observável.
+- Emoção, intensidade, velocidade e entonação.
+- Pausas, risos, suspiros, gritos e hesitações.
+
+Diferencie claramente:
+
+A. Personagem visível falando.
+B. Personagem falando fora do enquadramento.
+C. Narrador que não aparece na cena.
+D. Voz cuja origem não pode ser identificada com segurança.
+
+Não atribua automaticamente a fala ao personagem que está na tela.
+Use os sinais visuais e sonoros para identificar quem fala.
+
+Se uma palavra estiver incompreensível, marque como "[inaudível]".
+Não invente diálogos.
+
+9. SONS E MÚSICA
+
+Informe:
+
+- Música de fundo e suas mudanças.
+- Sons ambientais.
+- Passos, portas, objetos, impactos e outros efeitos.
+- Pausas e momentos de silêncio.
+- Momento em que cada som começa e termina.
+- Se um som parece vir do ambiente ou ter sido inserido na edição.
+- Relação entre os efeitos sonoros e os movimentos visuais.
+
+10. TEXTOS NA TELA
+
+Registre todos os textos que aparecem:
+
+- Legendas.
+- Títulos.
+- Mensagens.
+- Balões de diálogo.
+- Palavras destacadas.
+- Logotipos.
+- Marcas-d'água.
+- Elementos de interface.
+- Textos promocionais.
+
+Para cada um, informe:
+
+- Texto exato.
+- Tempo de entrada e saída.
+- Localização na tela.
+- Tamanho relativo.
+- Cor e estilo tipográfico aparente.
+- Animação de entrada e saída.
+- Se fica sobre o vídeo ou faz parte do cenário.
+
+11. ILUMINAÇÃO E APARÊNCIA VISUAL
+
+Descreva:
+
+- Direção aparente da luz.
+- Luz natural ou artificial, quando identificável.
+- Sombras e reflexos.
+- Temperatura de cor aparente.
+- Contraste e saturação.
+- Alterações de iluminação durante a cena.
+- Aspecto realista, estilizado, cartunesco ou cinematográfico.
+- Efeitos visuais e alterações de cor.
+
+12. ESTADO FINAL DA CENA
+
+Informe:
+
+- Posição final de cada personagem.
+- Direção para a qual está olhando.
+- Postura final.
+- Posição dos braços, pernas e mãos, quando visíveis.
+- Onde ficaram os objetos.
+- Última expressão facial observável.
+- Última fala ou som da cena.
+- Como a cena termina.
+- O que permanece igual para a cena seguinte.
+
+PARTE 4 — LINHA DO TEMPO DAS AÇÕES E FALAS
+
+Depois de descrever cada cena, crie uma sequência cronológica detalhada.
+
+Organize assim:
+
+TEMPO | PERSONAGEM | AÇÃO | POSIÇÃO NA TELA | FALA OU SOM
+
+Inclua mudanças rápidas e ações simultâneas quando puder
+identificá-las. Não misture acontecimentos de momentos diferentes.
+
+PARTE 5 — CONTINUIDADE VISUAL
+
+Crie um registro de continuidade indicando:
+
+- Em qual lado da tela cada personagem aparece.
+- Como cada personagem se desloca entre os cortes.
+- Qual roupa e quais acessórios usa em cada momento.
+- Quais objetos mantém consigo.
+- Quais objetos mudam de posição.
+- Para onde os personagens olham.
+- Como ficam posicionados uns em relação aos outros.
+- Quais características permanecem consistentes.
+- Quais mudanças aparentes devem ser conferidas.
+
+Não corrija inconsistências encontradas no vídeo. Registre-as.
+
+PARTE 6 — RESUMO TÉCNICO DE CADA CENA PARA PRODUÇÃO FUTURA
+
+Ao terminar a análise, forneça para cada cena um bloco adicional
+que poderá posteriormente ser convertido em uma instrução para
+geração de vídeo por IA.
+
+Esse bloco deve conter:
+
+- Ambiente e composição.
+- Aparência dos personagens.
+- Figurino completo visível.
+- Posição inicial de cada personagem.
+- Ação principal.
+- Trajetória dos movimentos.
+- Expressões e gestos.
+- Enquadramento e movimento da câmera.
+- Iluminação, cores e estilo visual.
+- Diálogos e sincronização labial.
+- Sons e música relevantes.
+- Posição final dos personagens.
+- Elementos que precisam continuar iguais na cena seguinte.
+
+Não transforme a descrição em um prompt genérico.
+Preserve os acontecimentos e a ordem temporal de cada cena.
+
+FORMATO DA RESPOSTA:
+
+Use títulos numerados por cena.
+
+Seja extremamente específico, visual, cronológico e técnico.
+Não reduza o conteúdo a um resumo.
+Não omita os detalhes porque parecem pequenos.
+
+Se a análise for extensa demais para uma única resposta,
+divida-a em partes consecutivas e informe exatamente o intervalo
+de tempo analisado em cada parte.
+
+Antes de concluir, informe quais trechos foram analisados e se
+alguma parte do vídeo, áudio ou imagem não pôde ser examinada
+com precisão.
+
+
+
+Quero adaptar o roteiro analisado para criar uma nova versão
+do vídeo, incluindo uma chamada publicitária falada pelo
+próprio personagem.
+
+OBJETIVO:
+Divulgar meu grupo de ofertas e convidar o espectador a acessar
+o link que está na bio do meu perfil.
+
+REGRAS PARA INSERIR O ANÚNCIO:
+
+1. Preserve a sequência principal da história, seu ritmo,
+   seu suspense e seu desfecho, criando uma versão original.
+
+2. Escolha uma pausa natural na narrativa para inserir o anúncio.
+   Não interrompa uma ação importante nem revele antecipadamente
+   o desfecho.
+
+3. Faça o próprio personagem falar o anúncio em voz alta.
+   Não use apenas um narrador externo nem dependa somente
+   de texto sobreposto.
+
+4. No momento do anúncio, o personagem deve:
+   - interromper brevemente a ação;
+   - virar o rosto e, se necessário, o corpo em direção à câmera;
+   - olhar diretamente para o espectador;
+   - falar com naturalidade e expressão convincente;
+   - fazer gestos compatíveis com a fala;
+   - concluir a frase e voltar à ação original.
+
+5. Escreva uma fala curta, natural e persuasiva, com duração
+   aproximada de 5 a 8 segundos.
+
+6. A fala deve convidar a pessoa a entrar no grupo de ofertas
+   pelo link da bio. Não invente descontos, preços, vantagens
+   ou promessas que não foram informados.
+
+7. Depois do anúncio, continue a história sem alterar
+   arbitrariamente a identidade, a roupa, a voz ou a aparência
+   do personagem.
+
+8. Informe exatamente em que momento o anúncio começa e termina.
+
+9. Forneça:
+   A. O diálogo completo do personagem.
+   B. A expressão facial e o tom de voz.
+   C. Os movimentos da cabeça, mãos e corpo.
+   D. A posição do personagem na tela.
+   E. A direção do olhar.
+   F. O enquadramento e o movimento da câmera.
+   G. A sincronização entre a fala e os movimentos da boca.
+   H. A transição de retorno à história.
+   I. O texto curto que aparecerá na tela durante o anúncio.
+
+10. Não gere o vídeo ainda. Primeiro apresente o roteiro adaptado,
+    com os tempos de cada cena, para que a etapa de geração
+    possa seguir instruções precisas.

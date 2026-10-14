@@ -1,0 +1,12 @@
+2026/10/13-20:37:58.738 3594 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\tiktok\conta_02\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/13-20:37:58.823 3594 Recovering log #26
+2026/10/13-20:37:58.824 3594 Level-0 table #30: started
+2026/10/13-20:37:58.854 3594 Level-0 table #30: 93659 bytes OK
+2026/10/13-20:37:58.856 3594 Recovering log #29
+2026/10/13-20:37:58.885 3594 Reusing old log C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\tiktok\conta_02\Default\Local Storage\leveldb/000029.log 
+2026/10/13-20:37:58.901 3594 Delete type=0 #26
+2026/10/13-20:40:00.643 6fc4 Level-0 table #32: started
+2026/10/13-20:40:00.655 6fc4 Level-0 table #32: 56213 bytes OK
+2026/10/13-20:40:00.660 6fc4 Delete type=0 #29
+2026/10/13-20:46:47.377 6cdc Level-0 table #34: started
+2026/10/13-20:46:47.395 6cdc Level-0 table #34: 458710 bytes OK

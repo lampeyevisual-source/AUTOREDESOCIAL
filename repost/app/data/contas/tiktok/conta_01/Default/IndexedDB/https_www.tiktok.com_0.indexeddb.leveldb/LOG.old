@@ -1,0 +1,12 @@
+2026/10/10-11:40:46.808 5418 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOREDESOCIAL\app\data\contas\tiktok\conta_cam_nova\Default\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/10-11:40:46.809 5418 Recovering log #73
+2026/10/10-11:40:46.833 5418 Reusing old log C:\Users\marqu\OneDrive\Desktop\AUTOREDESOCIAL\app\data\contas\tiktok\conta_cam_nova\Default\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/000073.log 
+2026/10/10-11:48:37.941 3660 Level-0 table #78: started
+2026/10/10-11:48:37.958 3660 Level-0 table #78: 1229933 bytes OK
+2026/10/10-11:48:37.960 3660 Delete type=0 #73
+2026/10/10-11:49:20.127 3660 Compacting 1@1 + 1@2 files
+2026/10/10-11:49:20.142 3660 Generated table #79@1: 1109 keys, 162309 bytes
+2026/10/10-11:49:20.142 3660 Compacted 1@1 + 1@2 files => 162309 bytes
+2026/10/10-11:49:20.147 3660 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/10-11:49:20.148 3660 Delete type=2 #75
+2026/10/10-11:49:20.148 3660 Delete type=2 #78
