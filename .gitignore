@@ -2,3 +2,14 @@ copy/data/videos/
 repost/data/videos/
 cookies.txt
 contas.txt
+# Videos baixados
+data/videos/baixados/
+
+# Arquivos de controle dos downloads
+data/videos/youtube/processados_youtube.txt
+
+# Dados temporarios dos navegadores
+copy/app/data/contas/*/Default/IndexedDB/
+copy/app/data/contas/*/Default/Local Storage/
+copy/app/data/contas/*/Default/Cache/
+copy/app/data/contas/*/Default/Code Cache/
