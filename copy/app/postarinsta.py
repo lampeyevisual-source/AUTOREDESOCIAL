@@ -4,7 +4,7 @@ import time
 
 from datetime import datetime, timedelta
 
-from repost.app.instagram import (
+from instagram import (
     abrir_instagram,
     fechar_instagram
 )

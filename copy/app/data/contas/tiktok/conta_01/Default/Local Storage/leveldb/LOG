@@ -1,5 +1,17 @@
-2026/10/10-13:06:42.786 18d0 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOREDESOCIAL\app\data\contas\tiktok\conta_02\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/10-13:06:42.801 18d0 Recovering log #130
-2026/10/10-13:06:42.802 18d0 Level-0 table #133: started
-2026/10/10-13:06:42.826 18d0 Level-0 table #133: 25036 bytes OK
-2026/10/10-13:06:42.862 18d0 Delete type=0 #130
+2026/10/15-07:58:15.981 418c Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\tiktok\conta_01\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/15-07:58:15.983 418c Recovering log #134
+2026/10/15-07:58:15.984 418c Level-0 table #136: started
+2026/10/15-07:58:15.993 418c Level-0 table #136: 53196 bytes OK
+2026/10/15-07:58:16.004 418c Delete type=0 #134
+2026/10/15-08:08:18.831 4c24 Level-0 table #139: started
+2026/10/15-08:08:18.837 4c24 Level-0 table #139: 24719 bytes OK
+2026/10/15-08:08:18.839 4c24 Delete type=0 #137
+2026/10/15-08:08:18.840 418c Compacting 4@0 + 1@1 files
+2026/10/15-08:08:18.849 418c Generated table #140@0: 140 keys, 234033 bytes
+2026/10/15-08:08:18.849 418c Compacted 4@0 + 1@1 files => 234033 bytes
+2026/10/15-08:08:18.851 418c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/15-08:08:18.851 418c Delete type=2 #129
+2026/10/15-08:08:18.851 418c Delete type=2 #131
+2026/10/15-08:08:18.852 418c Delete type=2 #133
+2026/10/15-08:08:18.852 418c Delete type=2 #136
+2026/10/15-08:08:18.852 418c Delete type=2 #139

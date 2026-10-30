@@ -1,0 +1,17 @@
+2026/10/15-07:31:10.170 2450 Creating DB C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\tiktok\conta_03\Default\Local Storage\leveldb since it was missing.
+2026/10/15-07:31:10.194 2450 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\tiktok\conta_03\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/15-07:32:10.206 36ac Level-0 table #5: started
+2026/10/15-07:32:10.218 36ac Level-0 table #5: 89824 bytes OK
+2026/10/15-07:32:10.229 36ac Delete type=0 #3
+2026/10/15-07:37:00.017 36ac Level-0 table #7: started
+2026/10/15-07:37:00.024 36ac Level-0 table #7: 185170 bytes OK
+2026/10/15-07:37:00.026 36ac Delete type=0 #4
+2026/10/15-07:38:07.548 36ac Level-0 table #9: started
+2026/10/15-07:38:07.562 36ac Level-0 table #9: 45823 bytes OK
+2026/10/15-07:38:07.571 36ac Delete type=0 #6
+2026/10/15-07:43:11.702 36ac Level-0 table #11: started
+2026/10/15-07:43:11.708 36ac Level-0 table #11: 59975 bytes OK
+2026/10/15-07:43:11.710 36ac Delete type=0 #8
+2026/10/15-08:07:15.873 36ac Level-0 table #13: started
+2026/10/15-08:07:15.883 36ac Level-0 table #13: 52293 bytes OK
+2026/10/15-08:07:15.886 36ac Delete type=0 #10

@@ -1,18 +1,5 @@
-2026/10/10-11:40:46.617 5b08 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOREDESOCIAL\app\data\contas\tiktok\conta_cam_nova\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/10-11:40:46.618 5b08 Recovering log #124
-2026/10/10-11:40:46.622 5b08 Reusing old log C:\Users\marqu\OneDrive\Desktop\AUTOREDESOCIAL\app\data\contas\tiktok\conta_cam_nova\Default\Local Storage\leveldb/000124.log 
-2026/10/10-11:47:48.158 5998 Level-0 table #128: started
-2026/10/10-11:47:48.165 5998 Level-0 table #128: 23879 bytes OK
-2026/10/10-11:47:48.166 5998 Delete type=0 #124
-2026/10/10-11:47:48.167 5b08 Compacting 4@0 + 1@1 files
-2026/10/10-11:47:48.174 5b08 Generated table #129@0: 134 keys, 233533 bytes
-2026/10/10-11:47:48.174 5b08 Compacted 4@0 + 1@1 files => 233533 bytes
-2026/10/10-11:47:48.175 5b08 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/10-11:47:48.176 5b08 Delete type=2 #118
-2026/10/10-11:47:48.176 5b08 Delete type=2 #120
-2026/10/10-11:47:48.176 5b08 Delete type=2 #123
-2026/10/10-11:47:48.176 5b08 Delete type=2 #125
-2026/10/10-11:47:48.176 5b08 Delete type=2 #128
-2026/10/10-11:47:53.761 5998 Level-0 table #131: started
-2026/10/10-11:47:53.773 5998 Level-0 table #131: 118081 bytes OK
-2026/10/10-11:47:53.778 5998 Delete type=0 #127
+2026/10/10-13:06:42.786 18d0 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOREDESOCIAL\app\data\contas\tiktok\conta_02\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/10-13:06:42.801 18d0 Recovering log #130
+2026/10/10-13:06:42.802 18d0 Level-0 table #133: started
+2026/10/10-13:06:42.826 18d0 Level-0 table #133: 25036 bytes OK
+2026/10/10-13:06:42.862 18d0 Delete type=0 #130

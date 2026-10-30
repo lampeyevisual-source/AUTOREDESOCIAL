@@ -2,7 +2,7 @@
 import os
 import time
 
-from repost.app.tiktok import abrir_tiktok, fechar_tiktok
+from tiktok import abrir_tiktok, fechar_tiktok
 
 
 # =====================================================
@@ -560,7 +560,8 @@ def clicar_salvar(page):
 
 def postar_tiktok(
     caminho_video,
-    descricao=""
+    descricao="",
+    numero_conta=1
 ):
 
     playwright = None
@@ -589,12 +590,13 @@ def postar_tiktok(
         # ---------------------------------------------
         # ABRIR TIKTOK
         # ---------------------------------------------
-        numero_conta = 2  # Seleciona a conta 02
 
         playwright, navegador, page = abrir_tiktok(numero_conta)
 
-        print(f"TikTok aberto com a conta {numero_conta:02d}.")
-
+        print(
+            f"TikTok aberto com a conta "
+            f"{numero_conta:02d}."
+        )
         # ---------------------------------------------
         # ABRIR STUDIO
         # ---------------------------------------------

@@ -1,3 +1,6 @@
-2026/10/13-20:34:18.709 6b84 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\instagram\conta_02\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/13-20:34:18.712 6b84 Recovering log #3
-2026/10/13-20:34:18.719 6b84 Reusing old log C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\instagram\conta_02\Default\Local Storage\leveldb/000003.log 
+2026/10/15-08:12:35.721 3cb0 Reusing MANIFEST C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\instagram\conta_02\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/15-08:12:35.722 3cb0 Recovering log #3
+2026/10/15-08:12:35.727 3cb0 Reusing old log C:\Users\marqu\OneDrive\Desktop\AUTOMACOES LUIZ\AUTOREDESOCIAL\copy\app\data\contas\instagram\conta_02\Default\Local Storage\leveldb/000003.log 
+2026/10/15-08:12:47.929 5fe4 Level-0 table #5: started
+2026/10/15-08:12:47.935 5fe4 Level-0 table #5: 12599 bytes OK
+2026/10/15-08:12:47.938 5fe4 Delete type=0 #3
